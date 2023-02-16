@@ -1,1 +1,4 @@
-flask
+Flask
+Flask-Caching
+Gunicorn
+flask_compress
